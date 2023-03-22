@@ -28,6 +28,7 @@ public class Ejercicio5 {
         System.out.println("El triple del numero ingresado es: " + triple);
         System.out.println("La raiz del numero ingresado es: " + raiz);
         
+        
     }
     
 }
